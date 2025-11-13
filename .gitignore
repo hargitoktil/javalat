@@ -1,0 +1,14 @@
+# Ignore OneDrive and system files
+OneDrive/
+**/OneDrive/**
+.DS_Store
+Thumbs.db
+
+# Ignore IDE & build
+.vscode/
+bin/
+build/
+out/
+*.class
+*.jar
+*.log
